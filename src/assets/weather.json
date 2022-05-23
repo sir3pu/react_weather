@@ -1,0 +1,35 @@
+{
+  "coord": { "lon": 3.8964, "lat": 7.3878 },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "03d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 307.09,
+    "feels_like": 313.18,
+    "temp_min": 307.09,
+    "temp_max": 307.09,
+    "pressure": 1013,
+    "humidity": 55
+  },
+  "visibility": 10000,
+  "wind": { "speed": 2.06, "deg": 170 },
+  "clouds": { "all": 40 },
+  "dt": 1652706972,
+  "sys": {
+    "type": 1,
+    "id": 1165,
+    "country": "NG",
+    "sunrise": 1652678823,
+    "sunset": 1652723683
+  },
+  "timezone": 3600,
+  "id": 2339354,
+  "name": "Ibadan",
+  "cod": 200
+}
